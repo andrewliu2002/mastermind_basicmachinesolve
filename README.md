@@ -1,1 +1,2 @@
 "# mastermind_basicmachinesolve" 
+"# Comparify" 
